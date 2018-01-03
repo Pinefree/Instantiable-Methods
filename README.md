@@ -10,10 +10,10 @@ public class Main
 		
 		methods.add("hi", () ->
 		{
-      System.out.println("Hello!");
+			System.out.println("Hello!");
 		});
 		
-    methods.run(args[0]);
+		methods.run(args[0]);
 	}
 }
 ```
