@@ -8,7 +8,7 @@ public class VoidMethodExample {
 		  System.out.println("Testing...");
 	  });
 	  
-	  method.run();
+	  method.runVoid();
   }
 }
 
