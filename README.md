@@ -23,3 +23,6 @@ I've uploaded this to github because I have used it personally for a while now. 
 
 ## Help
 Right now I have examples [here](https://github.com/Pinefree/Instantiable-Methods/tree/master/InstantiableMethods/examples) that basically show how to set it all up. I plan on add ing a small doc for Eclipse (by commenting the code). So when you hover over methods it will give you a description and use.
+
+## Plans
+I'm going to try and make the MethodList better as right now it's not as user-friendly as I'd like. I'm also going to try using either abstract classes or a fake struct to try and bring both non-returnable and returnable methods into one class. Originally I had planned on just returning a type of Void, but that wasn't *really* returning nothing.
