@@ -22,4 +22,4 @@ If the user were to type "hi" as a command line argument, when the program runs 
 I've uploaded this to github because I have used it personally for a while now. So, I've decided to leave it here in case anyone else might use it, or (mainly) if I need to download this to another computer to use.
 
 ## Help
-Right now I have examples [here](../InstantiableMethods/examples/) that basically show how to set it all up. I plan on add ing a small doc for Eclipse (by commenting the code). So when you hover over methods it will give you a description and use.
+Right now I have examples [here](https://github.com/Pinefree/Instantiable-Methods/tree/master/InstantiableMethods/examples) that basically show how to set it all up. I plan on add ing a small doc for Eclipse (by commenting the code). So when you hover over methods it will give you a description and use.
