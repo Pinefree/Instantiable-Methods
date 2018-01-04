@@ -8,7 +8,7 @@ public class ReturnStringMethodExample {
 		  return "Testing...";
 	  });
 	  
-	  System.out.println(method.run());
+	  System.out.println(method.runReturn());
   }
 }
 
