@@ -1,5 +1,5 @@
 # Instantiable Methods for Java
-Instantiable methods for Java is a small library which allows methods to be implemented using lambda functions into Method Objects. These methods contained inside of Objects are technically "instantiable," and can be removed from the program entirely or overwritten during runtime. There is also a MethodGroup Object included within the library which has basic functionality for running, locating, adding, and removing methods. The applications of this are very general, however, as an example; I've used this for cleanly managing a command line argument parser.
+Instantiable methods for Java is a small library which allows methods to be implemented using lambda functions into Method Objects. These methods contained inside of Objects are technically "instantiable," and can be removed from the program entirely or overwritten during runtime. There is also a MethodList Object included within the library which has basic functionality for running, locating, adding, and removing methods. The applications of this are very general, however, as an example; I've used this for cleanly managing a command line argument parser.
 
 ```
 public class Main 
