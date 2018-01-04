@@ -18,3 +18,5 @@ public class Main
 }
 ```
 If the user were to type "hi" as a command line argument, when the program runs the function will be called and output "Hello!" to the system console.
+
+I've uploaded this to github because I have used it personally for a while now. So, I've decided to upload it here in case anyone else might use it, or (mainly) if I need to download this to another computer to use.
